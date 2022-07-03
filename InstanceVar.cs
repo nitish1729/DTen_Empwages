@@ -4,7 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-
+// if variable is explicitly declared by using the static modifer or else if a variable is declared ubnder 
+// under any static block then those variable are static variable as rest of the other are non-static.
 
    
      class InstanceVar
